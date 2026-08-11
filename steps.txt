@@ -8,3 +8,9 @@ created req api keys
 step 3 :
 folder structure
 
+Step 4 :
+cteated tools for flight search and tavily search and tested them.
+
+step 5 :
+now we are starting agents workflow 
+
